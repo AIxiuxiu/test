@@ -1,0 +1,77 @@
+10
+
+dir
+0
+svn://user5@192.168.54.25/res/%E5%AE%89%E5%8D%8E%E4%BA%AE/MeiLiYiChuDemo/Pods
+svn://user5@192.168.54.25/res
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c2d47970-c8a5-4105-ba68-75ff7da481f6
+
+Pods.xcodeproj
+dir
+
+
+
+add
+
+Target Support Files
+dir
+
+
+
+add
+
+SDWebImage
+dir
+
+
+
+add
+
+Headers
+dir
+
+
+
+add
+
+Local Podspecs
+dir
+
+
+
+add
+
+Manifest.lock
+file
+
+
+
+add
+
+AFNetworking
+dir
+
+
+
+add
+
